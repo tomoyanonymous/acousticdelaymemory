@@ -11,5 +11,9 @@
   "dependencies": {
     "serialport": "^2.0.5",
     "socket.io-client": "^1.3.7"
+  },
+  "repository":{
+    "type":"git",
+    "url":"git://github.com/tomoyanonymous/acousticdelaymemory.git"
   }
 }
