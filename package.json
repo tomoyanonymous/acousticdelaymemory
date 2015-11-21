@@ -1,0 +1,15 @@
+{
+  "name": "ap2015_machineapp",
+  "version": "1.0.0",
+  "description": "sending serial data of acoustic delai line memory to server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^2.0.5",
+    "socket.io-client": "^1.3.7"
+  }
+}
